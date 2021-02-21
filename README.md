@@ -2,4 +2,4 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Song selection, focused on redux (state mangement).
+Song playlist selection, focused on redux (state mangement).
