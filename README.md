@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Playist app with React and Redux
 
 Song playlist selection, focused on redux (state mangement).
